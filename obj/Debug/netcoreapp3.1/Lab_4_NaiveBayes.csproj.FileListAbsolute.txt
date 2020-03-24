@@ -1,0 +1,11 @@
+C:\VSC Projects\C#\AI\Lab_4_NaiveBayes\bin\Debug\netcoreapp3.1\Lab_4_NaiveBayes.exe
+C:\VSC Projects\C#\AI\Lab_4_NaiveBayes\bin\Debug\netcoreapp3.1\Lab_4_NaiveBayes.deps.json
+C:\VSC Projects\C#\AI\Lab_4_NaiveBayes\bin\Debug\netcoreapp3.1\Lab_4_NaiveBayes.runtimeconfig.json
+C:\VSC Projects\C#\AI\Lab_4_NaiveBayes\bin\Debug\netcoreapp3.1\Lab_4_NaiveBayes.runtimeconfig.dev.json
+C:\VSC Projects\C#\AI\Lab_4_NaiveBayes\bin\Debug\netcoreapp3.1\Lab_4_NaiveBayes.dll
+C:\VSC Projects\C#\AI\Lab_4_NaiveBayes\bin\Debug\netcoreapp3.1\Lab_4_NaiveBayes.pdb
+C:\VSC Projects\C#\AI\Lab_4_NaiveBayes\obj\Debug\netcoreapp3.1\Lab_4_NaiveBayes.csprojAssemblyReference.cache
+C:\VSC Projects\C#\AI\Lab_4_NaiveBayes\obj\Debug\netcoreapp3.1\Lab_4_NaiveBayes.AssemblyInfoInputs.cache
+C:\VSC Projects\C#\AI\Lab_4_NaiveBayes\obj\Debug\netcoreapp3.1\Lab_4_NaiveBayes.AssemblyInfo.cs
+C:\VSC Projects\C#\AI\Lab_4_NaiveBayes\obj\Debug\netcoreapp3.1\Lab_4_NaiveBayes.dll
+C:\VSC Projects\C#\AI\Lab_4_NaiveBayes\obj\Debug\netcoreapp3.1\Lab_4_NaiveBayes.pdb

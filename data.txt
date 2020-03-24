@@ -1,0 +1,10 @@
+slonecznie,23,umiarkowany,tak
+deszczowo,15,mocny,nie
+pochmurno,17,slaby,tak
+pochmurno,21,umiarkowany,nie
+slonecznie,20,mocny,tak
+slonecznie,25,slaby,tak
+deszczowo,22,slaby,tak
+slonecznie,14,mocny,nie
+pochmurno,19,mocny,nie
+deszczowo,16,slaby,nie
